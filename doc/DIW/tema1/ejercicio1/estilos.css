@@ -1,0 +1,46 @@
+
+
+div{
+     font-family: 'Roboto', sans-serif;
+    padding-top: 50px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 20px;
+    width: 30%;
+    height: 80px;
+    border: 1px solid black;
+}
+.c1{ 
+    background: #FF0000;
+}
+.c2{
+
+    background: #008000;
+
+}
+.c3{
+
+    background: #0000FF;
+
+}
+
+.c1:hover{
+
+    background: #00ffff;
+
+}
+.c2:hover{
+
+    background: #ff00ff;
+
+}
+.c3:hover{
+
+    background: #FFFF00;
+
+}
+h1{
+    font-family: 'Chilanka', cursive;
+    text-align: center;
+    font-size: 50px;
+}
